@@ -1,8 +1,8 @@
 # Student Academic Progress Tracker (SAPT) 🎓
 
 **Course:** Introduction to Problem Solving and Programming 
-**Student Name:** Vinayak
-**Reg No:** 25BCY10210
+**Student Name:** Nihal Sain
+**Reg No:** 25MIP10107
 
 ## 📝 Project Overview
 The Student Academic Progress Tracker (SAPT) is a Python-based command-line application designed to help first-year engineering students manage their academic records. It solves the problem of decentralized grade tracking by allowing students to store course details, calculate their SGPA automatically, and identify backlogs (failed courses) in real-time.
@@ -42,4 +42,5 @@ The Student Academic Progress Tracker (SAPT) is a Python-based command-line appl
 5.  Relaunch the app and select **Option 1 (View)** to confirm the data was saved.
 
 ## 📸 Screenshots
+
 *(Note to evaluator: Please see the Project Report PDF for detailed execution screenshots)*
